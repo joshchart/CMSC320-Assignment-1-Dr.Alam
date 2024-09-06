@@ -9,3 +9,7 @@ Answer: Data science can be applied to finance. There is a lot of numbers and da
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging will create a new merge commit which will combine the changes from the branches. People use merging to keep the entire branch history of the repository. Rebasing will instead rewrite history keeping it in linear format. This makes it easire to look back at previous changes. But some people do not like rewriting history of commits.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I hope to learn more about data science and its applications. I think datascience is a very powerfull tool and being able to learn it will help add more skills to what I have previously learned at UMD. I am also interested in learning mroe about NLP and its applications. 

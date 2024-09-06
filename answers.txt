@@ -5,3 +5,7 @@ Answer: Using git allows people to keep track of the progress of their programmi
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to finance. There is a lot of numbers and data invovled in finance. Being able to track the data and making predictions based on the data is essential in that industry. For example in the financial stock market, if someone is able to see past trends and make a prediction of a stock going up it can make that person a lot of money.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging will create a new merge commit which will combine the changes from the branches. People use merging to keep the entire branch history of the repository. Rebasing will instead rewrite history keeping it in linear format. This makes it easire to look back at previous changes. But some people do not like rewriting history of commits.

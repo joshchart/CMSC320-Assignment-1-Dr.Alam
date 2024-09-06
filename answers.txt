@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Using git allows people to keep track of the progress of their programming. It acts as a version control for users to keep track of what works as well as add features. This can be easily done with branches to maintain a clean git tree. Git also makes it easire to work with others as their is a central code base which can be pulled and pushed code onto simplifing the development of code.
+
